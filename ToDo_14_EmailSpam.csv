@@ -1,11 +1,11 @@
 email,keyword,lunghezza,intestazion,valida
-1,offerta ,lunga,1,1
-2,offerta ,lunga,0,0
-3,offerta ,corta,0,0
-4,offerta ,media,1,1
-5,money ,media,0,0
-6,money ,lunga,1,0
-7,money ,corta,0,0
-8,viagra ,lunga,1,0
-9,viagra ,lunga,0,1
-10,viagra ,media,0,0
+1,offerta ,3,1,1
+2,offerta ,3,0,0
+3,offerta ,1,0,0
+4,offerta ,2,1,1
+5,money ,2,0,0
+6,money ,1,1,0
+7,money ,1,0,0
+8,viagra ,3,1,0
+9,viagra ,3,0,1
+10,viagra ,2,0,0
